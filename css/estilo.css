@@ -3,14 +3,14 @@ body{
      text-align:  center;
      font-family: arial;
      font-size: 16px;
-     margin: 0;
-     padding: 0;
+     margin: 0;     
+     padding: 0px;    
 }
 
 #cabecera
 {
      background: darkorchid;
-     color: white;
+     color: white;  
      box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0,75);
      font-weight: bold;
      margin: 0;
@@ -44,4 +44,9 @@ body{
 #post{
      background: white;
      padding: 1em;
+}
+
+#footer{
+     background: wheat;
+     text-align: center;
 }
